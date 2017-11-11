@@ -1,0 +1,19 @@
+.header {
+    background-color: orange;
+}
+
+html, body {
+    background-color: white;
+}
+
+html, .footer {
+    background-color: orange;
+}
+
+.footer .inner {
+    background-color: orange;
+}
+
+footer {
+    background-color: orange;
+}
